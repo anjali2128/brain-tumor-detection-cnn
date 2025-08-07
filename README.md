@@ -1,6 +1,9 @@
 🧠 Brain Tumor Detection using Deep Learning
+
 This repository contains the source code and documentation for our B.Tech Project:
-Leveraging Deep Learning for Automated Brain Tumor Classification from MRI Images
+
+        Leveraging Deep Learning for Automated Brain Tumor Classification from MRI Images
+        
 The system detects brain tumors in MRI scans using MobileNetV2 with Spatial Attention, aiming to assist in early diagnosis.
 
 ---
